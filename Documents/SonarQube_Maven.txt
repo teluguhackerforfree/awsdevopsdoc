@@ -1,4 +1,4 @@
-SonarQube
+SonarQube install
 ============
 
 10 instructions 
